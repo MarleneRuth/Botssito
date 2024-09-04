@@ -1,0 +1,64 @@
+/* style.css */
+
+body {
+    background-color: #d0e7ff; /* Fondo azul claro */
+    color: #4a4a4a; /* Color de texto gris */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: #2a52be; /* Azul oscuro */
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #7b68ee; /* Morado claro */
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: #2a52be; /* Azul oscuro */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  form {
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    border: 2px solid #2a52be; /* Borde azul oscuro */
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #2a52be; /* Azul oscuro */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1c3a7a; /* Azul más oscuro al pasar el mouse */
+  }
+  
